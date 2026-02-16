@@ -8,9 +8,9 @@
 
 ---
 # 💫 About Me  
-Data-driven professional with **5+ years of experience** in business analytics, data visualization, and strategic insights. Proven track record in **research analytics, market intelligence, and stakeholder engagement** to drive decision-making.  
+Data-driven professional passionate about transforming raw data into meaningful business insights. With hands-on experience in **SQL, Python, PostgreSQL,** and data visualization tools like **Power BI and Tableau,** I specialize in analytics, **predictive modeling,** and business intelligence solutions.
 
-Skilled in **SQL, Python, PostgreSQL, AWS, Linux, Tableau, Power BI, Google Looker Studio and Excel**, with expertise in managing large datasets and developing actionable insights for business growth. Previously worked as a **Customer Relationship Executive at Vodafone Idea Ltd.**, leveraging data to improve customer experience and sim related operations.  
+I focus on solving real-world business problems using data, machine learning, and structured analysis to support strategic decision-making and growth.
 
 ---
 
