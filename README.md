@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rudra Barman</h1>
 <h3 align="center">Data Science Enthusiast | Explorer From India</h3>
 
+<p align="center">
+  <a href="https://rudra-barman-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/🌐 Portfolio Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
 ---
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -44,7 +50,6 @@ I focus on solving real-world business problems using data, machine learning, an
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
 
 ---
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rudra-barman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
